@@ -4,5 +4,7 @@ a = np.sin(np.pi/2)
 
 print(a)
 
+n = np.sin(12)
+
 
 
